@@ -1,0 +1,39 @@
+body {
+    background-image: blue;
+}
+.topnav {
+    background: burlywood;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: aqua;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: antiquewhite;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: yellow;
+    color: #ababab;
+}
+.topnav a.active {
+background-color: #b2b;
+color: blue;
+}
+.h1 {
+    font-size: 22px;
+    color: blue;
+}
+.footer p {
+    text-align: center;
+    padding: 3px;
+    background-color: bisque;
+    color: aqua;
+}
+.footer a {
+    text-align: center;
+    padding: 3px;
+    background-color: bisque;
+    color: aqua;
+}
